@@ -1,0 +1,4 @@
+# Dependencias del Mini Sistema de Algoritmos de Búsqueda
+customtkinter>=6.0.0
+matplotlib>=3.10.0
+networkx>=3.4.0
